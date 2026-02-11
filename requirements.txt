@@ -1,0 +1,7 @@
+discord.py>=2.3.0
+aiohttp
+yt-dlp
+PyNaCl
+Pillow
+asyncpg
+python-dotenv
